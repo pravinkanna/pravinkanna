@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pravin</h1>
-<h2 align="center">Hobbyist developer</h2>
+<h3 align="center">Hobbyist developer</h3>
 <br/><br/>
 <p align='center'>
 <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
